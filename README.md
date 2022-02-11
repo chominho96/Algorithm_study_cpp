@@ -36,6 +36,12 @@ C++을 활용한 백준 문제풀이 저장소
 - 2022.02.04
 - Problems : https://www.acmicpc.net/workbook/view/10133
 
+## Week 6 : Dynamic Programming
+
+- 2022.02.11
+- Problems : https://www.acmicpc.net/workbook/view/10209, https://www.acmicpc.net/workbook/view/10210
+- 1029번 코드 업로드 예정
+
 **코드에 대한 설명은 블로그 참고**
 **chominho96.github.io**
 
