@@ -47,6 +47,11 @@ C++을 활용한 백준 문제풀이 저장소
 - 2022.02.18
 - Problems : https://www.acmicpc.net/workbook/view/10334
 
+## Week 7 : Divide & Conquer
+
+- 2022.02.25
+- Problems : https://www.acmicpc.net/workbook/view/10417
+
 **코드에 대한 설명은 블로그 참고**
 **chominho96.github.io**
 
