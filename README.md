@@ -47,10 +47,16 @@ C++을 활용한 백준 문제풀이 저장소
 - 2022.02.18
 - Problems : https://www.acmicpc.net/workbook/view/10334
 
-## Week 7 : Divide & Conquer
+## Week 8 : Divide & Conquer
 
 - 2022.02.25
 - Problems : https://www.acmicpc.net/workbook/view/10417
+
+## Week 9 : Programmers Montly Code Challenge Season1
+
+- 2022.03.06
+- problems : https://programmers.co.kr/learn/challenges?tab=all_challenges
+- 문제 모음에서 월간 코드 챌린지 시즌1 선택
 
 **코드에 대한 설명은 블로그 참고**
 **chominho96.github.io**
