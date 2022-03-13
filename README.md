@@ -67,7 +67,7 @@ C++을 활용한 백준 문제풀이 저장소
 - level 3까지 해결
 
 **코드에 대한 설명은 블로그 참고**
-**chominho96.github.io**
+**https://chominho96.github.io**
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [dill]: https://github.com/joemccann/dillinger
