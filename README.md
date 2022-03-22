@@ -66,6 +66,13 @@ C++을 활용한 백준 문제풀이 저장소
 - 문제 모음에서 월간 코드 챌린지 시즌2 선택
 - level 3까지 해결
 
+## Week 11 : Programmers Montly Code Challenge Season 3
+
+- 2022.03.19
+- problems : https://programmers.co.kr/learn/challenges?tab=all_challenges
+- 문제 모음에서 월간 코드 챌린지 시즌3 선택
+- level 3까지 해결
+
 **코드에 대한 설명은 블로그 참고**
 **https://chominho96.github.io**
 
