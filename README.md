@@ -73,8 +73,17 @@ C++을 활용한 백준 문제풀이 저장소
 - 문제 모음에서 월간 코드 챌린지 시즌3 선택
 - level 3까지 해결
 
+## Week 12 : Programmers 코딩테스트 고득점 Kit - 완전 탐색 + 2019 카카오 개발자 겨울 인턴십
+
+- 2022.03.26
+- problems : https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+- 태그 중 완전탐색 선택
+- problems : https://programmers.co.kr/learn/challenges?tab=all_challenges
+- 문제 모음에서 2019 카카오 개발자 겨울 인턴십 선택
+- level 3까지 해결
+
 **코드에 대한 설명은 블로그 참고**
-**https://chominho96.github.io**
+**https://velog.io/@chominho96**
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [dill]: https://github.com/joemccann/dillinger
